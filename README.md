@@ -64,13 +64,13 @@
     </td>
     <td align="center" width="96">
       <a href="#otsobear-tech">
-        <img src="https://svgshare.com/i/1BZn.svg" width="54" height="54" alt="Flask" />
+        <img src="https://svgshare.com/i/1BZn.svg" width="48" height="48" alt="Flask" />
       </a><br>Flask
     </td>
-    <td align="center" width="96" style="height: 96px;"> 
+    <td align="center" width="96"> 
       <a href="#otsobear-tech">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
-         style="max-width: 48px; max-height: 48px; width: auto; height: auto;" 
+      <img src="https://svgshare.com/i/1BY9.svg" 
+          width="48" height="48"
          alt="Nginx">
       </a><br>Nginx
     </td>
