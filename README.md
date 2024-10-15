@@ -24,7 +24,7 @@
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
 - :seedling: &nbsp;I’m currently working on **<a href="https://github.com/OtsoBear/LatexToCalc" target="_blank">LatexToCalc</a>**
 - :speech_balloon: &nbsp;I'm looking for possible **opportunities**
-- :book: &nbsp;Learn more about my projects here on **GitHub**
+- :book: &nbsp;Learn more about my projects here
 - :computer: &nbsp;Connect with me on 
   <a href="https://www.linkedin.com/in/otso-veistera/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="60" style="vertical-align: middle; margin-left: 4px;">
