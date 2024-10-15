@@ -1,20 +1,10 @@
 <h1 align="left" id="otsobear-title">👋 Hello there! I'm OtsoBear</h1>
 <h3 align="left">I program things 👍</h3>
 
-<p align="left">
-  <a href="https://github.com/OtsoBear/OtsoBear">
-    <img src="https://komarev.com/ghpvc/?username=otsobear" alt="page views" />
-  </a>
-  <a href="https://otso.veistera.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com">
-  </a>
-  <a href="https://github.com/OtsoBear?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/OtsoBear?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/OtsoBear?tab=stars">
-    <img alt="Stars" src="https://img.shields.io/github/stars/otsobear?style=flat&logo=github">
-  </a>
-</p>
+[![page views](https://komarev.com/ghpvc/?username=otsobear)](https://github.com/OtsoBear/OtsoBear)&nbsp;
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://otso.veistera.com)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/OtsoBear?style=flat&logo=github)](https://github.com/OtsoBear?tab=followers)&nbsp;
+[![Stars](https://img.shields.io/github/stars/otsobear?style=flat&logo=github)](https://github.com/OtsoBear?tab=stars)
 
 <a href="#otsobear-title">
   <img src="https://github-readme-stats.vercel.app/api?username=otsobear&show_icons=true&theme=dark" alt="otsobear" align="right" />
