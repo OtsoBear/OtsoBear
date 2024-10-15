@@ -1,9 +1,9 @@
 <h1 align="left" id="otsobear-title">👋 Hello there! I'm OtsoBear</h1>
 <h3 align="left">I program things 👍</h3>
 
-[![page views](https://komarev.com/ghpvc/?username=otsobear)](https://github.com/OtsoBear/OtsoBear)&nbsp;
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://otso.veistera.com)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/OtsoBear?style=flat&logo=github)](https://github.com/OtsoBear?tab=followers)&nbsp;
+[![page views](https://komarev.com/ghpvc/?username=otsobear)](https://github.com/OtsoBear/OtsoBear)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://otso.veistera.com)
+[![GitHub followers](https://img.shields.io/github/followers/OtsoBear?style=flat&logo=github)](https://github.com/OtsoBear?tab=followers)
 [![Stars](https://img.shields.io/github/stars/otsobear?style=flat&logo=github)](https://github.com/OtsoBear?tab=stars)
 
 <a href="#otsobear-title">
