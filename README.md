@@ -1,16 +1,16 @@
 <h1 align="left" id="otsobear-title">👋 Hello there! I'm OtsoBear</h1>
 <h3 align="left">I program things 👍</h3>
 
-[![page views](https://komarev.com/ghpvc/?username=otsobear)](https://github.com/OtsoBear/OtsoBear)
+[![page views](https://komarev.com/ghpvc/?username=otsobear&label=profile+views))](https://github.com/OtsoBear/OtsoBear)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://otso.veistera.com)
 [![GitHub followers](https://img.shields.io/github/followers/OtsoBear?style=flat&logo=github)](https://github.com/OtsoBear?tab=followers)
 [![Stars](https://img.shields.io/github/stars/otsobear?style=flat&logo=github)](https://github.com/OtsoBear?tab=stars)
 
+<!--
 <a href="#otsobear-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=otsobear&show_icons=true&theme=dark" alt="otsobear" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=otsobear&show_icons=true&theme=dark" alt="otsobear" align="right" />
 </a>
-</a>
-
+-->
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
 - :seedling: &nbsp;I’m currently working on **<a href="https://github.com/OtsoBear/LatexToCalc" target="_blank">LatexToCalc</a>**
 - :speech_balloon: &nbsp;I'm looking for possible **opportunities**
