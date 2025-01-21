@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="96">
       <a href="#otsobear-tech">
-        <img src="https://svgshare.com/i/1B_5.svg" width="48" height="48" alt="Rust" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.svg" width="48" height="48" alt="Rust" />
       </a><br>Rust
     </td>
     <td align="center" width="96">
@@ -54,12 +54,12 @@
     </td>
     <td align="center" width="96">
       <a href="#otsobear-tech">
-        <img src="https://svgshare.com/i/1BZn.svg" width="48" height="48" alt="Flask" />
+        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" width="48" height="48" alt="Flask" />
       </a><br>Flask
     </td>
     <td align="center" width="96"> 
       <a href="#otsobear-tech">
-      <img src="https://svgshare.com/i/1BY9.svg" 
+      <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" 
           width="48" height="48"
          alt="Nginx">
       </a><br>Nginx
