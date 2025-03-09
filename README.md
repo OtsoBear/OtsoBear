@@ -12,7 +12,7 @@
 </a>
 -->
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
-- :seedling: &nbsp;I’m currently working on **<a href="https://github.com/OtsoBear/LatexToCalc" target="_blank">LatexToCalc</a>**
+- :seedling: &nbsp;I’m currently working on **<a href="https://github.com/OtsoBear/LatexToCalc-server" target="_blank">LatexToCalc-server</a>**
 - :speech_balloon: &nbsp;I'm looking for possible **opportunities**
 - :book: &nbsp;Learn more about my projects here
 - :computer: &nbsp;Connect with me on 
