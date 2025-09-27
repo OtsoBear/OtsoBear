@@ -1,5 +1,5 @@
-<h1 align="left" id="otsobear-title">👋 Hello there! I'm OtsoBear</h1>
-<h3 align="left">I program things 👍</h3>
+<h1 align="left" id="otsobear-title">Hello 👋</h1>
+
 
 [![page views](https://komarev.com/ghpvc/?username=otsobear&label=profile+views)](https://github.com/OtsoBear/OtsoBear)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fotso.veistera.com)](https://otso.veistera.com)
@@ -12,7 +12,7 @@
 </a>
 -->
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
-- :seedling: &nbsp;I’m currently working on something secret at **<a href="https://fr8.so" target="_blank">FR8</a>**
+- :seedling: &nbsp;I’m currently working on something secret...
 - :speech_balloon: &nbsp;I'm looking for possible **opportunities**
 - :book: &nbsp;Learn more about my projects here
 - :computer: &nbsp;Connect with me on 
@@ -22,7 +22,7 @@
 <br>
 
 
-<h2 align="left" id="otsobear-tech">Favorite Tech</h2>
+<h2 align="left" id="otsobear-tech">Some Tech</h2>
 <p>Tools, languages, and other things that I like to work with.</p>
 
 <table>
