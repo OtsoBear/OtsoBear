@@ -1,4 +1,4 @@
-<h1 align="left" id="otsobear-title">Hello 👋</h1>
+<h1 align="left" id="otsobear-title">Hello I'm Otso👋</h1>
 
 
 [![page views](https://komarev.com/ghpvc/?username=otsobear&label=profile+views)](https://github.com/OtsoBear/OtsoBear)
@@ -13,7 +13,7 @@
 -->
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
 - :seedling: &nbsp;I’m currently working on something secret...
-- :speech_balloon: &nbsp;I'm looking for possible **opportunities**
+- :speech_balloon: &nbsp;I'm looking for possible **opportunities** (send me cool repos)
 - :book: &nbsp;Learn more about my projects here
 - :computer: &nbsp;Connect with me on 
   <a href="https://www.linkedin.com/in/otso-veistera/" target="_blank">
@@ -22,50 +22,5 @@
 <br>
 
 
-<h2 align="left" id="otsobear-tech">Some Tech</h2>
-<p>Tools, languages, and other things that I like to work with.</p>
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a><br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.svg" width="48" height="48" alt="Rust" />
-      </a><br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" />
-      </a><br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      </a><br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#otsobear-tech">
-        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" width="48" height="48" alt="Flask" />
-      </a><br>Flask
-    </td>
-    <td align="center" width="96"> 
-      <a href="#otsobear-tech">
-      <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" 
-          width="48" height="48"
-         alt="Nginx">
-      </a><br>Nginx
-    </td>
-  </tr>
-</table>
-
-
-![](https://hit.yhype.me/github/profile?user_id=101503120)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Cuda](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)  ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
