@@ -11,10 +11,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=otsobear&show_icons=true&theme=dark" alt="otsobear" align="right" />
 </a>
 -->
-- :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
+- :office: &nbsp;I'm currently located in San Francisco
 - :seedling: &nbsp;I’m currently working on [The Token Company](https://thetokencompany.com)
 - :speech_balloon: &nbsp;I'm looking for possible hires (send me cool repos)
-- :book: &nbsp;Learn more about my projects here
+- :book: &nbsp;Learn more about my old projects here
 - :computer: &nbsp;Connect with me on 
   <a href="https://www.linkedin.com/in/otso-veistera/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="60" style="vertical-align: middle; margin-left: 4px;">
