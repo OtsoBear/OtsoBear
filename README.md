@@ -12,8 +12,8 @@
 </a>
 -->
 - :office: &nbsp;I'm currently located in &nbsp;**🇫🇮**
-- :seedling: &nbsp;I’m currently working on something secret...
-- :speech_balloon: &nbsp;I'm looking for possible **opportunities** (send me cool repos)
+- :seedling: &nbsp;I’m currently working on [The Token Company](https://thetokencompany.com)
+- :speech_balloon: &nbsp;I'm looking for possible hires (send me cool repos)
 - :book: &nbsp;Learn more about my projects here
 - :computer: &nbsp;Connect with me on 
   <a href="https://www.linkedin.com/in/otso-veistera/" target="_blank">
