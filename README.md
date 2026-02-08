@@ -1,4 +1,4 @@
-<h1 align="left" id="otsobear-title">Hello I'm Otso👋</h1>
+<h1 align="left" id="otsobear-title">Hello I'm Otso</h1>
 
 
 [![page views](https://komarev.com/ghpvc/?username=otsobear&label=profile+views)](https://github.com/OtsoBear/OtsoBear)
